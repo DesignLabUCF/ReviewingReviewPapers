@@ -19,16 +19,16 @@ This paper suggests  [**Ten Simple Rules for Writing a Literature Review**](http
 
 #### Examples
 *Note I might have curated these paper for different reasons, such as visualization, process/methodology, rhetoric or all the above.*
-* [2022 - Dabirian, Panchabikesan, Eicker - Occupant-centric urban building energy modeling Approaches, inputs, and data sources - A review](2022 - Dabirian, Panchabikesan, Eicker - Occupant-centric urban building energy modeling Approaches, inputs, and data sources - A review.pdf)
-* [2019 - Stephanidis et al. - Seven HCI Grand Challenges - International Journal of Human-Computer Interaction](2019 - Stephanidis et al. - Seven HCI Grand Challenges - International Journal of Human-Computer Interaction.pdf)
-* [2019 - Brittain, Wei - Autonomous Air Traffic Controller A Deep Multi-Agent Reinforcement Learning Approach -  Autonomous agents and multi-agent systems](2019 - Brittain, Wei - Autonomous Air Traffic Controller A Deep Multi-Agent Reinforcement Learning Approach -  Autonomous agents and multi-agent systems.pdf)
-* [2017 - van Andel, Cole, Pepping - A systematic review on perceptual-motor calibration to changes in action capabilities - Human Movement](2017 - van Andel, Cole, Pepping - A systematic review on perceptual-motor calibration to changes in action capabilities - Human Movement.pdf)
-* [2017 - Brand, de Oliveira - Recalibration in functional perceptual-motor tasks A systematic review - Human Movement Science](2017 - Brand, de Oliveira - Recalibration in functional perceptual-motor tasks A systematic review - Human Movement Science.pdf)
-* [2016 - Fiore, Wiltshire - Technology as teammate Examining the role of external cognition in support of team cognitive processes - Front](2016 - Fiore, Wiltshire - Technology as teammate Examining the role of external cognition in support of team cognitive processes - Front.pdf)
+* [2022 - Dabirian, Panchabikesan, Eicker - Occupant-centric urban building energy modeling Approaches, inputs, and data sources - A review](examples/2022 - Dabirian, Panchabikesan, Eicker - Occupant-centric urban building energy modeling Approaches, inputs, and data sources - A review.pdf)
+* [2019 - Stephanidis et al. - Seven HCI Grand Challenges - International Journal of Human-Computer Interaction](examples/2019 - Stephanidis et al. - Seven HCI Grand Challenges - International Journal of Human-Computer Interaction.pdf)
+* [2019 - Brittain, Wei - Autonomous Air Traffic Controller A Deep Multi-Agent Reinforcement Learning Approach -  Autonomous agents and multi-agent systems](examples/2019 - Brittain, Wei - Autonomous Air Traffic Controller A Deep Multi-Agent Reinforcement Learning Approach -  Autonomous agents and multi-agent systems.pdf)
+* [2017 - van Andel, Cole, Pepping - A systematic review on perceptual-motor calibration to changes in action capabilities - Human Movement](examples/2017 - van Andel, Cole, Pepping - A systematic review on perceptual-motor calibration to changes in action capabilities - Human Movement.pdf)
+* [2017 - Brand, de Oliveira - Recalibration in functional perceptual-motor tasks A systematic review - Human Movement Science](examples/2017 - Brand, de Oliveira - Recalibration in functional perceptual-motor tasks A systematic review - Human Movement Science.pdf)
+* [2016 - Fiore, Wiltshire - Technology as teammate Examining the role of external cognition in support of team cognitive processes - Front](examples/2016 - Fiore, Wiltshire - Technology as teammate Examining the role of external cognition in support of team cognitive processes - Front.pdf)
 * [2010 - Wildman et al. - Toward an understanding of macrocognition in teams Predicting processes in complex collaborative contexts - HFES](examples/2010 - Wildman et al. - Toward an understanding of macrocognition in teams Predicting processes in complex collaborative contexts - Huma.pdf)
-* [2010 - Fiore et al. - Towards an understanding of macrocognition in teams Developing and defining complex collaborative processes](2010 - Fiore et al. - Towards an understanding of macrocognition in teams Developing and defining complex collaborative processes and pr.pdfr)
-* [2019 - Tao, Wang, Li - A Visualized Analysis of Game-Based Learning Research from 2013 to 2017 - Proceedings - ICIME](2019 - Tao, Wang, Li - A Visualized Analysis of Game-Based Learning Research from 2013 to 2017 - Proceedings - International Joint Confe.pdf)
-* [2022 - Passalacqua et al. - Human-Centred AI in the Age of Industry 5 . 0 A Systematic Review Protocol - HCII](2022 - Passalacqua et al. - Human-Centred AI in the Age of Industry 5 . 0 A Systematic Review Protocol - HCII.pdf)
+* [2010 - Fiore et al. - Towards an understanding of macrocognition in teams Developing and defining complex collaborative processes](examples/2010 - Fiore et al. - Towards an understanding of macrocognition in teams Developing and defining complex collaborative processes and pr.pdfr)
+* [2019 - Tao, Wang, Li - A Visualized Analysis of Game-Based Learning Research from 2013 to 2017 - Proceedings - ICIME](examples/2019 - Tao, Wang, Li - A Visualized Analysis of Game-Based Learning Research from 2013 to 2017 - Proceedings - International Joint Confe.pdf)
+* [2022 - Passalacqua et al. - Human-Centred AI in the Age of Industry 5 . 0 A Systematic Review Protocol - HCII](examples/2022 - Passalacqua et al. - Human-Centred AI in the Age of Industry 5 . 0 A Systematic Review Protocol - HCII.pdf)
 
 
 [This is a living document - please add ones you find.]
@@ -163,7 +163,7 @@ Categorization and classification allow humans to organize things, objects, and 
 
 
 ### Tools / (Meta)Data / Organization
-You want to collect the 'references', the PDFs, and the Meta-data you are categorizing and annotating the paper. The trick is to keep organized. Everyone uses two main bibliographic tools [Zoter](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/) - I use both, but use Zotero a lot more. Make a Google Drive (or Dropbox, OnedDrive, Box folder) and put your PDFs there, create a coding sheet to extract the Author, date, title, and venue - if you *work smart* [not hard] you can seed that initially from Zotero by exporting a CSV of those fields to save time.] There are many ways to make notes and annotations, some use Zotero/Mendeley's built-in features/plugins. Others create a Doc/Sheet in the folder. [Some annotate the PDF itself -though this is harder to share and scale as a warning].
+You want to collect the 'references', the PDFs, and the Meta-data you are categorizing and annotating the paper. The trick is to keep organized. Everyone uses two main bibliographic tools [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/) - I use both, but use Zotero a lot more. Make a Google Drive (or Dropbox, OnedDrive, Box folder) and put your PDFs there, create a coding sheet to extract the Author, date, title, and venue - if you *work smart* [not hard] you can seed that initially from Zotero by exporting a CSV of those fields to save time.] There are many ways to make notes and annotations, some use Zotero/Mendeley's built-in features/plugins. Others create a Doc/Sheet in the folder. [Some annotate the PDF itself -though this is harder to share and scale as a warning].
 
 Other more moderate advanced tools will include: Harzing's analysis, Vicinitas, Dimensions, Google NGram, ResearchGate, VOS Viewer, CiteSpace, BibExcel and maxQDA.
 
@@ -177,10 +177,9 @@ More is better, duplicate and cull - [[**Which academic search systems are suita
 
 
 ### Types of review papers
-the literature review must be defined by a guiding concept (e.g., your research objective, the problem or issue you are discussing, or your argumentative thesis). It is not just a descriptive list of the material available or a set of summaries. [Taylor 2022](https://advice.writing.utoronto.ca/types-of-writing/literature-review/). There is also an article that goes into more depth but the categories. [This also helps you answer the **WHY**. Why do I want write a review article? Will your review provides a significant amount of fresh information and ideas?] 
+the literature review must be defined by a guiding concept (e.g., your research objective, the problem or issue you are discussing, or your argumentative thesis). It is not just a descriptive list of the material available, or a set of summaries. [Taylor 2022](https://advice.writing.utoronto.ca/types-of-writing/literature-review/). There is also an article that goes into more depth but the catagories. [This also help you answer the **WHY**. Why do I want write a review article? Will your review provide significant amount of fresh information and ideas?] 
 
-Table reproduced from: [**A typology of reviews: an analysis of 14 review types and associated methodologies.**](http://onlinelibrary.wiley.com/doi/full/10.1111/j.1471-1842.2009.00848.x)
-
+Table repoduced from: [**A typology of reviews: an analysis of 14 review types and associated methodologies.**](http://onlinelibrary.wiley.com/doi/full/10.1111/j.1471-1842.2009.00848.x)
 
 | Review Type | Description |
 | ----------- | ----------- |
