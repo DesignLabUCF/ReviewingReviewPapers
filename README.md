@@ -19,7 +19,7 @@ This paper suggests  [**Ten Simple Rules for Writing a Literature Review**](http
 
 #### Examples
 *Note I might have curated these paper for different reasons, such as visualization, process/methodology, rhetoric or all the above.*
-* [2022 - Dabirian, Panchabikesan, Eicker - Occupant-centric urban building energy modeling Approaches, inputs, and data sources - A review](examples/2022 - Dabirian, Panchabikesan, Eicker - Occupant-centric urban building energy modeling Approaches, inputs, and data sources - A review.pdf)
+* [2022 - Dabirian, Panchabikesan, Eicker - Occupant-centric urban building energy modeling Approaches, inputs, and data sources - A review](examples/2010%20-%20Fiore%20et%20al.%20-%20Towards%20an%20understanding%20of%20macrocognition%20in%20teams%20Developing%20and%20defining%20complex%20collaborative%20processes%20and%20pr.pdf)
 * [2019 - Stephanidis et al. - Seven HCI Grand Challenges - International Journal of Human-Computer Interaction](examples/2019 - Stephanidis et al. - Seven HCI Grand Challenges - International Journal of Human-Computer Interaction.pdf)
 * [2019 - Brittain, Wei - Autonomous Air Traffic Controller A Deep Multi-Agent Reinforcement Learning Approach -  Autonomous agents and multi-agent systems](examples/2019 - Brittain, Wei - Autonomous Air Traffic Controller A Deep Multi-Agent Reinforcement Learning Approach -  Autonomous agents and multi-agent systems.pdf)
 * [2017 - van Andel, Cole, Pepping - A systematic review on perceptual-motor calibration to changes in action capabilities - Human Movement](examples/2017 - van Andel, Cole, Pepping - A systematic review on perceptual-motor calibration to changes in action capabilities - Human Movement.pdf)
